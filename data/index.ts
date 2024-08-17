@@ -1,7 +1,8 @@
 export const navItems = [
   { name: "About", link: "#about" },
   { name: "Projects", link: "#projects" },
-  { name: "Testimonials", link: "#testimonials" },
+  { name: "Experience", link: "#experience" },
+  { name: "Approach", link: "#approach" },
   { name: "Contact", link: "#contact" },
 ];
 
@@ -204,14 +205,12 @@ export const workExperience = [
 export const socialMedia = [
   {
     id: 1,
+    link: "https://github.com/Devansh27112001",
     img: "/git.svg",
   },
   {
     id: 2,
-    img: "/twit.svg",
-  },
-  {
-    id: 3,
+    link: "https://www.linkedin.com/in/devansh-kansara-804447262/",
     img: "/link.svg",
   },
 ];
