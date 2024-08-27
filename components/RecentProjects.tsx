@@ -18,9 +18,7 @@ export default function RecentProjects() {
           >
             <PinContainer title={link} href={link}>
               <div className="relative flex items-center justify-center sm:w-[570px] w-[80vw] overflow-hidden h-[30vh] sm:h-[40vh] mb-10">
-                <div className="relative w-full h-full overflow-hidden lg:rounded-3xl bg-[#13162d]">
-                  <img src="/bg.png" alt="bg-img" />
-                </div>
+                <div className="relative w-full h-full overflow-hidden lg:rounded-3xl bg-[#13162d]"></div>
                 <img src={img} alt={title} className="z-10 absolute bottom-0" />
               </div>
               <h1 className="font-bold lg:text-2xl md:text-xl text-base line-clamp-1">
