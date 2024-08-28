@@ -85,7 +85,7 @@ export const projects = [
     des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
     img: "/image2.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
-    link: "https://github.com/adrianhajdin/zoom-clone",
+    link: "https://the-wild-oasis-website-jet-seven.vercel.app/",
   },
   // {
   //   id: 3,
