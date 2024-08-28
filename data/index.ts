@@ -74,17 +74,23 @@ export const projects = [
   {
     id: 1,
     title: "The-Wild-Oasis",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    des: "A complete Hotel Management Web application built using ReactJs, React-Query, TailWindCSS and Supabase.",
     img: "/image.png",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],
+    iconLists: [
+      "/re.svg",
+      "/tail.svg",
+      "/ts.svg",
+      "/supabase-logo-icon.svg",
+      "/react-query-seeklogo.svg",
+    ],
     link: "https://the-wild-oasis-umber-rho.vercel.app",
   },
   {
     id: 2,
     title: "The-Wild-Oasis-Website",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+    des: "A beautiful customer facing booking website for the The-Wild-Oasis web application using NextJs, TailWindCSS and Supabase",
     img: "/image2.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/supabase-logo-icon.svg"],
     link: "https://the-wild-oasis-website-jet-seven.vercel.app/",
   },
   // {
