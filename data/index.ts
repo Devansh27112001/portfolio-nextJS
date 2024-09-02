@@ -122,7 +122,7 @@ export const workExperience = [
   {
     id: 2,
     title: "Full-Stack developer Intern",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    desc: "Assisted in developing a full-stack web application using React.js and Node.js.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },

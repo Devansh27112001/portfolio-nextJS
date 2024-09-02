@@ -8,15 +8,13 @@ export function Approach() {
   return (
     <section className="w-full py-20" id="approach">
       <h1 className="heading">
-        My<span className="text-purple"> approach</span>
+        Why<span className="text-purple"> Hire Me?</span>
       </h1>
       <div className="my-20 flex flex-col lg:flex-row items-center justify-center gap-4 ">
         <Card
-          title="Planning and Strategy"
-          icon={<AceternityIcon order="phase 1" />}
-          description="We'll collaborate to map out your website's goals, target audience, 
-          and key functionalities. We'll discuss things like site structure, 
-          navigation, and content requirements."
+          title="Passion and Dedication"
+          icon={<AceternityIcon order="Reason 1" />}
+          description="I am very passionate about solving real life and practical problems. I am reliable and hardworking, with thorough understanding of all the languages that I am working on."
         >
           <CanvasRevealEffect
             animationSpeed={5.1}
@@ -24,11 +22,9 @@ export function Approach() {
           />
         </Card>
         <Card
-          title="Development and Progress Update"
-          icon={<AceternityIcon order="phase 2" />}
-          description="Once we agree on the plan, I cue my lofi playlist and dive into
-          coding. From initial sketches to polished code, I keep you updated
-          every step of the way."
+          title="Cognizant about the new technologies"
+          icon={<AceternityIcon order="Reason 2" />}
+          description="I am always up-to-date with the current trends and technologies, and I am always learning new things, each and every day."
         >
           <CanvasRevealEffect
             animationSpeed={3}
@@ -41,11 +37,9 @@ export function Approach() {
           />
         </Card>
         <Card
-          title="Development and Launch"
-          icon={<AceternityIcon order="phase 3" />}
-          description="This is where the magic happens! Based on the approved design, 
-          I'll translate everything into functional code, building your website
-          from the ground up."
+          title="Versatility"
+          icon={<AceternityIcon order="Reason 3" />}
+          description="This is where the magic happens! I can efficiently work on both, the frontend and the backend effectively."
         >
           <CanvasRevealEffect
             animationSpeed={3}
