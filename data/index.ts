@@ -50,7 +50,8 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Working on a Full-Stack web application",
+    title:
+      "Working on a Full-Stack web application using Spring Boot for backend and ReactJs.",
     description: "Currently",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -93,36 +94,20 @@ export const projects = [
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/supabase-logo-icon.svg"],
     link: "https://the-wild-oasis-website-jet-seven.vercel.app/",
   },
-  // {
-  //   id: 3,
-  //   title: "AI Image SaaS - Canva Application",
-  //   des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-  //   img: "/p3.svg",
-  //   iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-  //   link: "https://github.com/adrianhajdin/ai_saas_app",
-  // },
-  // {
-  //   id: 4,
-  //   title: "Animated Apple Iphone 3D Website",
-  //   des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-  //   img: "/p4.svg",
-  //   iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-  //   link: "https://github.com/adrianhajdin/iphone",
-  // },
 ];
 
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
+    title: "Software enginner Intern",
     desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Full-Stack developer Intern",
-    desc: "Assisted in developing a full-stack web application using React.js and Node.js.",
+    title: "Software Package Consultant | Software Engineer Intern",
+    desc: "Assisted in developing a full-stack web application focusing on backend using microservices acrhitecture. ",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
